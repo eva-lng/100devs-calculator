@@ -6,7 +6,7 @@
 
 This calculator enables users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. It has been developed using HTML, CSS, and JavaScript. Through this project I gained experience working with OOP JavaScript and DOM manipulation.
 
-Future optimizations could include adding more operations or enhancing the current basic design.
+I added an extra button 'DEL' that allows users to delete numbers that they typed in without reseting the calculator completely. Future optimizations could include adding more operations or enhancing the current basic design.
 Instructions for this project are included below.
 
 ***

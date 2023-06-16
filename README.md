@@ -9,6 +9,8 @@ This calculator enables users to perform basic arithmetic operations, such as ad
 Future optimizations could include adding more operations or enhancing the current basic design.
 Instructions for this project are included below.
 
+***
+
 ### Goal: Build a Simple Calculator using JS OOP best practices
 
 ### What it should look like:
